@@ -668,3 +668,4 @@ print("数据已成功保存为 model2_results.xlsx 文件")
 #                    for x in np.linspace(0, len(Iin2)-1, num_ticks)])
 # plt.tight_layout()
 # plt.show()
+
